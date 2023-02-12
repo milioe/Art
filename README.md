@@ -3,7 +3,7 @@
 
 
 # Gallery
-<table>
+<table style="width:100%">
   <tr>
     <col style="width:40%">
     <td> <img src="https://github.com/milioe/Art/blob/main/Files/Images/01.png" alt="foto" width = 500px height = 500px> </td>
